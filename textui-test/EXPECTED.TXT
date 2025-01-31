@@ -1,7 +1,7 @@
 || ===================================================
 || ===================================================
 || Contacts - Version 0.0
-|| Welcome to Contacts!
+|| Welcome to Contacts 0 !
 || ===================================================
 || Enter command: || [Command entered:help]
 || add: Adds a person to contacts.
